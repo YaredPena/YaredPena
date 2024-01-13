@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yared Pena
 ==================================================================================================================================
 
-I'm a Senior Computer Science major at the City College of New York. My passion lies in crafting innovative solutions, and I've had the privilege of working on diverse projects that showcase my technical prowess. I've developed a Twitter clone web application and a weather dashboard called Climate Cast, where I honed my skills in full-stack development. Outside of coding, I serve as the Treasurer for the International Student Organization at my school. Which has allowed me to refine my organizational, leadership and time management skills while allowing me to contribute to the vibrant multicultural community at the institution.
+I'm a Senior Computer Science major at the City College of New York. My passion lies in crafting innovative solutions, and I've had the privilege of working on diverse projects that showcase my technical prowess. I've developed a Twitter clone web application and a weather dashboard called Climate Cast., where I honed my skills in full-stack development. Outside of coding, I serve as the Treasurer for the International Student Organization at my school. Which has allowed me to refine my organizational, leadership and Time Management skills while allowing me to contribute to the vibrant multicultural community at the institution.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [penayared16@gmail.com](mailto:penayared16@gmail.com)
@@ -26,4 +26,4 @@ I'm a Senior Computer Science major at the City College of New York. My passion 
 
 <a href="http://www.github.com/YaredPena"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YaredPena&stroke=ffffff&background=000000&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/YaredPena"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=YaredPena&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/YaredPena" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaredPena&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
