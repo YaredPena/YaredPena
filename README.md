@@ -5,7 +5,7 @@ I'm a Senior Computer Science major at the City College of New York. My passion 
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [penayared16@gmail.com](mailto:penayared16@gmail.com)
-* 🚀  I'm currently working on [Land-It!](http://localhost:3000/)
+* 🚀  I'm currently working on [Pixit]
 * 🧠  I'm learning MySQL
 * 🤝  I'm open to collaborating on Data Science, Fullstack and Cybersecurity Projects
 
