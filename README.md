@@ -5,8 +5,8 @@ I'm a Senior Computer Science major at the City College of New York. My passion 
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [penayared16@gmail.com](mailto:penayared16@gmail.com)
-* 🚀  I'm currently working on Brighten
-* 🧠  I'm learning PostgreSQL
+* 🚀  I'm currently working on Brighten + Habit Heatmap!
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Data Science, Fullstack and Cybersecurity Projects
 
 ### Skills
