@@ -5,8 +5,8 @@ I'm a Senior Computer Science major at the City College of New York. My passion 
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [penayared16@gmail.com](mailto:penayared16@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Data Science, Fullstack Projects
+* 🧠  I'm learning C#
+* 🤝  I'm open to collaborating on Fullstack Projects
 
 ### Skills
 
