@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yared Pena
 ==================================================================================================================================
 
-I'm a Senior Computer Science major at the City College of New York. My passion lies in crafting innovative solutions, and I've had the privilege of working on diverse projects that showcase my technical prowess. I've developed a Twitter clone web application and a weather dashboard called Climate Cast, where I honed my skills in full-stack development. Outside of coding, I'm a member of Climb CCNY, the rock climbing club at my school.
-
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [penayared16@gmail.com](mailto:penayared16@gmail.com)
 * 🧠  I'm learning C#
