@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [penayared16@gmail.com](mailto:penayared16@gmail.com)
-* 🤝  I'm open to collaborating on Fullstack which use AI/ML Projects
+* 🤝  I'm open to collaborating on Fullstack Projects which include AI/ML
 
 ### Skills
 
