@@ -6,7 +6,7 @@ Aspiring Full-Stack SWE
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [penayared16@gmail.com](mailto:penayared16@gmail.com)
-* 🚀  I'm currently working on [SmartWallet](http://https://sd2smartwallet.netlify.app/)
+* 🚀  I'm currently working on [SmartWallet](https://sd2smartwallet.netlify.app/)
 * 🧠  I'm learning node.js and Next.js
 * 🤝  I'm open to collaborating on Fullstack Projects which include AI/ML and Data Science
 * ⚡  I've been working on mini projects on the side to get better with new technologies
