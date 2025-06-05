@@ -6,7 +6,7 @@ Aspiring Full-Stack SWE
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [penayared16@gmail.com](mailto:penayared16@gmail.com)
-* 🚀  I'm currently working on [LeetCode]
+* 🚀  I'm currently working on LeetCode
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Fullstack Projects which include AI/ML and Data Science
 * ⚡  I've been working on mini projects on the side to get better with new technologies
